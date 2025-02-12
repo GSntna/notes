@@ -2,6 +2,22 @@
 
 ## Index
 
+* [Summary](#summary)
+* [Introduction](#introduction)
+* [Pattern matching capabilities](#pattern-matching-capabilities)
+    * [Grouping with parenthesis](#grouping-with-parenthesis)
+    * [Other functionalities](#other-functionalities)
+    * [search() vs findall()](#search-vs-findall)
+* [Character Classes](#character-classes)
+    * [Shorthand codes for common character classes](#shorthand-codes-for-common-character-classes)
+    * [Creating own character classes](#creating-own-character-classes)
+        * [The caret and dollar signs](#the-caret-and-dollar-signs)
+        * [Wildcard character](#wildcard-character)
+        * [Case insensitive matching](#case-insensitive-matching)
+    * [Substituting strings](#substituting-strings)
+    * [Multi-line regex](#multi-line-regex)
+    * [Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE](#combining-reignorecase-redotall-and-reverbose)
+
 ## Summary
 
 | Regex | Functionality |
