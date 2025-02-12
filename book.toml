@@ -1,5 +1,5 @@
 [book]
-authors = [GSntna]
+authors = ["GSntna"]
 language = "en"
 multilingual = false
 src = "src"
